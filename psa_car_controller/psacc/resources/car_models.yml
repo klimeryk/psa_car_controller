@@ -502,7 +502,7 @@
   battery_power: 13.2
   fuel_capacity: 43
   abrp_name:
-  reg: VF3M45GBUM.*
+  reg: VF3M45GBUN.*
   max_elec_consumption: 70
   max_fuel_consumption: 30
 - !CarModel
